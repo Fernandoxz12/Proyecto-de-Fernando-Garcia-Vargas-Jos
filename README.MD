@@ -1,4 +1,4 @@
-# CASO 5: Sistema de Control de Asistencia
+# CASO 5: Sistema de Control de asistencia
 
 ##  Descripción del Caso
 El **Sistema de Control de Asistencia** es una aplicación web/móvil diseñada para registrar la asistencia diaria de los estudiantes.  
